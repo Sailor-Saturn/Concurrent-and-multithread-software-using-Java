@@ -1,0 +1,34 @@
+| Filter Used | Duration | File Used| Number of Threads | Date |
+| ----------------- | ---- |----------- |----------- | ---------- |
+| Blur |14 | turtle.jpg | 2 | 16/06/2021 12:45:11 |
+| Blur |12 | turtle.jpg | 2 | 16/06/2021 12:45:19 |
+| Blur |22 | turtle.jpg | 4 | 16/06/2021 12:45:32 |
+| Blur |13 | turtle.jpg | 4 | 16/06/2021 12:45:41 |
+| Blur |54 | turtle.jpg | 8 | 16/06/2021 12:46:01 |
+| Blur |53 | turtle.jpg | 8 | 16/06/2021 12:46:12 |
+| Blur |77 | turtle.jpg | 12 | 16/06/2021 12:46:22 |
+| Blur |93 | turtle.jpg | 12 | 16/06/2021 12:46:33 |
+| Blur |140 | cat.jpg | 2 | 16/06/2021 01:06:54 |
+| Blur |309 | cat.jpg | 2 | 16/06/2021 01:07:10 |
+| Blur |319 | cat.jpg | 4 | 16/06/2021 01:07:36 |
+| Blur |327 | cat.jpg | 4 | 16/06/2021 01:08:06 |
+| Blur |182 | cat.jpg | 8 | 16/06/2021 01:08:23 |
+| Blur |347 | cat.jpg | 8 | 16/06/2021 01:08:38 |
+| Blur |528 | cat.jpg | 12 | 16/06/2021 01:08:51 |
+| Blur |571 | cat.jpg | 12 | 16/06/2021 01:09:04 |
+| Blur |4 | tinyCar.jpg | 2 | 16/06/2021 01:12:00 |
+| Blur |5 | tinyCar.jpg | 2 | 16/06/2021 01:12:08 |
+| Blur |9 | tinyCar.jpg | 4 | 16/06/2021 01:12:18 |
+| Blur |9 | tinyCar.jpg | 4 | 16/06/2021 01:12:35 |
+| Blur |18 | tinyCar.jpg | 8 | 16/06/2021 01:12:44 |
+| Blur |23 | tinyCar.jpg | 8 | 16/06/2021 01:12:54 |
+| Blur |26 | tinyCar.jpg | 12 | 16/06/2021 01:13:23 |
+| Blur |25 | tinyCar.jpg | 12 | 16/06/2021 01:13:30 |
+| Blur |829 | ultrahd.jpg | 2 | 16/06/2021 01:34:52 |
+| Blur |673 | ultrahd.jpg | 2 | 16/06/2021 01:35:31 |
+| Blur |899 | ultrahd.jpg | 4 | 16/06/2021 01:35:53 |
+| Blur |1252 | ultrahd.jpg | 4 | 16/06/2021 01:36:17 |
+| Blur |1167 | ultrahd.jpg | 8 | 16/06/2021 01:36:48 |
+| Blur |970 | ultrahd.jpg | 8 | 16/06/2021 01:37:26 |
+| Blur |1208 | ultrahd.jpg | 12 | 16/06/2021 01:37:58 |
+| Blur |904 | ultrahd.jpg | 12 | 16/06/2021 01:38:19 |
